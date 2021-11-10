@@ -91,4 +91,4 @@ function init (): GamePlugin {
   }
 }
 
-export { init }
+export { init } 
